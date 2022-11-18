@@ -1,0 +1,13 @@
+    1  git --help
+    3  git init *
+    4  git init
+    7  cd .git
+   11  git remote
+   12  git remote add github https://github.com/mcadil/volbyCZ
+   13  git add
+   14  git add .
+   15  git commit
+   16  git push github
+   17  git push --set-upstream github master
+   20  history | grep git
+   21  history | grep git > git.txt
