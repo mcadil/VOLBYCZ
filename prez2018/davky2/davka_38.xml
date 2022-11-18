@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<VYSLEDKY_OKRSKY xmlns="http://www.volby.cz/prezident/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.volby.cz/prezident/ pe_vysledky_okrsky.xsd"
+                 DATUM_CAS_GENEROVANI="2018-01-27T19:50:00">
+<DAVKA KOLO="2" PORADI_DAVKY="38" OKRSKY_DAVKA="1" OKRSKY_CELKEM="14866" OKRSKY_ZPRAC="14866"/>
+<OKRSEK CIS_OBEC="563706" CIS_OKRSEK="1" PORADI_ZPRAC="14885" DATUM_CAS_ZPRAC="2018-01-27T19:49:40" OPAKOVANE="1">
+<UCAST_OKRSEK ZAPSANI_VOLICI="715" VYDANE_OBALKY="572" ODEVZDANE_OBALKY="572" PLATNE_HLASY="570"/>
+<HLASY_OKRSEK PORADOVE_CISLO="7" HLASY="177"/>
+<HLASY_OKRSEK PORADOVE_CISLO="9" HLASY="393"/>
+</OKRSEK>
+</VYSLEDKY_OKRSKY>
